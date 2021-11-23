@@ -21,7 +21,7 @@ Use input statements to retrieve customer weather preferences and display destin
 
 ![Screen Shot 2021-11-23 at 11 52 27 AM](https://user-images.githubusercontent.com/91925639/143068558-509d4120-1aaa-4009-a2e5-afdae22760bd.png)
 
-
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/91925639/143068867-16ca2bde-cfc3-4b1f-bf0d-bbe2143e93ee.png)
 
 * Vacation_Search.ipynb
 * WeatherPy_vacation.csv
