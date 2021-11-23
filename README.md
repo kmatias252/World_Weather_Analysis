@@ -19,6 +19,8 @@ Retrieve city, country, latitude, longitude, maximum temperature, humidity, clou
 
 Use input statements to retrieve customer weather preferences and display destinations on a marker layer map.
 
+![Screen Shot 2021-11-23 at 11 52 27 AM](https://user-images.githubusercontent.com/91925639/143068558-509d4120-1aaa-4009-a2e5-afdae22760bd.png)
+
 
 
 * Vacation_Search.ipynb
