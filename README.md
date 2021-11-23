@@ -8,8 +8,19 @@ The purpose of this analysis is to provide the users of PlanMyTrip app with the 
 
 ### Deliverable 1: Retrieve Weather Data 
 
+Retrieve city, country, latitude, longitude, maximum temperature, humidity, cloudiness, wind speed and current weather description from the API call
 
+![Screen Shot 2021-11-23 at 11 43 19 AM](https://user-images.githubusercontent.com/91925639/143066836-d70280ab-27e3-4eef-91bf-cc444d9f7c5c.png)
 
-* Retrieve latitude, longitude, maximum temperature, percent humidity, percent cloudiness, wind speed and weather description from the API call
 *  Weather_Database.ipynb
 *  WeatherPy_Database.csv
+
+### Deliverable 2: Create a Customer Travel Destinations Map 
+
+Use input statements to retrieve customer weather preferences and display destinations on a marker layer map.
+
+
+
+* Vacation_Search.ipynb
+* WeatherPy_vacation.csv
+* WeatherPy_vacation_map.png
