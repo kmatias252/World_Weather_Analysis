@@ -26,3 +26,15 @@ Use input statements to retrieve customer weather preferences and display destin
 * Vacation_Search.ipynb
 * WeatherPy_vacation.csv
 * WeatherPy_vacation_map.png
+
+### Deliverable 3: Create a Travel Itinerary Map 
+
+Use the Google Directions API to create a travel itinerary between four cities and create a marker layer map.
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/91925639/143069133-114587db-f350-4690-b7e1-48511e1a4f89.png)
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/91925639/143069185-4dec4ab8-765d-4a75-ad69-0bd59710086d.png)
+
+* Vacation_Itinerary.ipynb
+* WeatherPy_travel_map.png
+* WeatherPy_travel_map_markers.png
